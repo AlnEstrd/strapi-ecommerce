@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_subscribes",
+  "info": {
+    "displayName": "Subscribe",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "fields": {
+      "displayName": "generic-Input",
+      "type": "component",
+      "repeatable": true,
+      "component": "global.generic-input"
+    },
+    "meta": {
+      "type": "json"
+    }
+  }
+}

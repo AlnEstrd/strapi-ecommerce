@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_text_columns_texts",
+  "info": {
+    "displayName": "Columns-Text",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "subheader": {
+      "type": "string"
+    },
+    "textBox": {
+      "type": "component",
+      "repeatable": true,
+      "component": "text.featured-text"
+    }
+  }
+}

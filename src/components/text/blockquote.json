@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_text_blockquotes",
+  "info": {
+    "displayName": "Blockquote",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headerText": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "meta": {
+      "type": "json"
+    }
+  }
+}

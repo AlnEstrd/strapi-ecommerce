@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_text_featured_texts",
+  "info": {
+    "displayName": "Featured-Text"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "subheader": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "media": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "footnote": {
+      "type": "string"
+    },
+    "meta": {
+      "type": "json"
+    }
+  }
+}
